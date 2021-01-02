@@ -10,3 +10,9 @@ This is the final year project done by three members of B.Tech (2019 PO) of **El
 **1) Neelesh Biswas.** 
 **2) Agrapriya Das.**
 **3) Durba Sarkar.**
+
+# Flowchart of the project
+![Flowchart](https://github.com/biswas-neelesh96/IoT-Based-Drainage-Monitoring-System/blob/master/Report1.jpg)
+
+# Detailed Flowchart
+![DetailedFlowchart](https://github.com/biswas-neelesh96/IoT-Based-Drainage-Monitoring-System/blob/master/Report2.png)
