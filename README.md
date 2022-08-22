@@ -16,3 +16,7 @@ This is the final year project done by three members of B.Tech (2019 PO) of **El
 
 # Detailed Flowchart
 ![DetailedFlowchart](https://github.com/biswas-neelesh96/IoT-Based-Drainage-Monitoring-System/blob/master/Report2.png)
+
+# Project Members
+![Members](https://github.com/biswas-neelesh96/IoT-Based-Drainage-Monitoring-System/blob/master/DSCN1468.JPG)
+
