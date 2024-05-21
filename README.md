@@ -11,6 +11,8 @@ This is the final year project done by three members of B.Tech (2019 PO) of **El
 **2) Agrapriya Das.**
 **3) Durba Sarkar.**
 
+**Update on 21/05/2024:** The findings of this work are successfully published in a research paper at the 8th International Conference on Micro-Electronics, Electromagnetics and Telecommunications (ICMEET) 2023, held at NIT Mizoram on 6-7th October 2023. The title of the paper is [A Novel Approach for the Design of a Raspberry Pi-Based Smart Drainage Monitoring System](https://link.springer.com/chapter/10.1007/978-981-97-0767-6_11) 
+
 # Flowchart of the project
 ![Flowchart](https://github.com/biswas-neelesh96/IoT-Based-Drainage-Monitoring-System/blob/master/Report1.jpg)
 
